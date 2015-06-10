@@ -1,0 +1,21 @@
+{
+  "name": "my-ramda-ext",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "raine/my-ramda-ext",
+  "keywords": [
+    "ramda"
+  ],
+  "author": "Raine Virta <raine.virta@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.14.0",
+  },
+  "devDependencies": {
+    "babel": "^5.5.6"
+  }
+}
